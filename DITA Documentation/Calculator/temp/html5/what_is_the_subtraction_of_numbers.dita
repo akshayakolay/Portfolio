@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /E:\Portfolio Samples\Calculator\temp\html5?><?workdir-uri file:/E:/Portfolio%20Samples/Calculator/temp/html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="what_is_the_subtraction_of_numbers" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_subtraction_of_numbers.dita" xtrc="concept:1;3:50" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_subtraction_of_numbers.dita" xtrc="title:1;4:12">What is the subtraction of numbers</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_subtraction_of_numbers.dita" xtrc="shortdesc:1;5:16">In this section, you will learn about the concept of subtraction.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_subtraction_of_numbers.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_subtraction_of_numbers.dita" xtrc="p:1;7:12">To successfully perform the task of subtracting the numbers, you must know what is
+            subtraction. The term "subtraction" represents a mathematical operation. Subtraction is
+            a process, an action perform using numbers. Subtraction allows you to find the
+            difference of the numbers. </p>
+        <p class="- topic/p " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_subtraction_of_numbers.dita" xtrc="p:2;11:12">You use the (-) sign to perform the operation in the app.</p>
+        <p class="- topic/p " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_subtraction_of_numbers.dita" xtrc="p:3;12:12">Subtraction is the arithematic operation to calculate  difference of two or more
+            numbers.</p>
+    </conbody>
+</concept>

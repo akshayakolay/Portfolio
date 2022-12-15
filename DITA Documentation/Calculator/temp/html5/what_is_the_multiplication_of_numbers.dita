@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /E:\Portfolio Samples\Calculator\temp\html5?><?workdir-uri file:/E:/Portfolio%20Samples/Calculator/temp/html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="what_is_the_multiplication_of_numbers" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_multiplication_of_numbers.dita" xtrc="concept:1;3:53" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_multiplication_of_numbers.dita" xtrc="title:1;4:12">What is the multiplication of numbers</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_multiplication_of_numbers.dita" xtrc="shortdesc:1;5:16">In this section, you will learn about the concept of multiplication.</shortdesc>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_multiplication_of_numbers.dita" xtrc="conbody:1;6:14">
+        <p class="- topic/p " xtrf="file:/E:/Portfolio%20Samples/Calculator/what_is_the_multiplication_of_numbers.dita" xtrc="p:1;7:12">To successfully perform the task of multiplying the numbers, you must know what is
+            Multiplication. The term "multiplication" represents a mathematical operation.
+            Multiplication is a process, an action perform using numbers. Multiplication allows you
+            to find the difference of the numbers. </p>
+    </conbody>
+</concept>
