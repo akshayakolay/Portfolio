@@ -1,5 +1,5 @@
 ## Summary
-This document focuses on the introduction to NASA's APOD Application Programming Interface (API), request and response parameters. 
+This document focuses on the introduction to NASA's APOD Application Programming Interface (API), request and response parameters.
 
 ## Introduction
 The APIs allow two different software programs to interact with each other. 
@@ -46,12 +46,12 @@ Parameter | Format| Default Value | Description | Required | Minimum | Maximum
 -- | -- | -- | -- | -- | -- | --
 api_key| string | DEMO_KEY | api.nasa.gov key authentication | true | NA | NA
 date | YYYY-MM-DD | today | The date of the APOD image to retrieve | false | 1995-06-16 | date
-concept_tags | boolean | false | The concept tags are not necessarily included in the explanation, but rather derived from common search tags that are associated with the description text. | false | NA | NA
-hd | boolean | false | Indicates whether or not high-resolution images should be returned. high-resolution URLs are returned regardless. | false | NA
-count| integer | false |  If this is specified then count randomly chosen images will be returned in a JSON array. Cannot be used in conjunction with date or start_date and end_date | false | 0 | 99 | NA | NA
-start_date | YYYY-MM-DD| NA | Images within the start_date to end_date would be displayed. Not to be used with date | false | 1995-06-16 | date
+concept_tags | boolean | false | The concept tags are not necessarily part of the explanation, but are fetched from common search tags that are associated with the description text. | false | NA | NA
+hd | boolean | false | Depicts whether or not high-resolution images should be returned. High-resolution URLs are returned as default. | false | NA
+count| integer | false |  If this parameter is specified then count randomly choses the images to be returned in a JSON array. This parameter is not be used with date or start_date and end_date | false | 0 | 99 | NA | NA
+start_date | YYYY-MM-DD| NA | Images that falls within the start_date to end_date would be displayed. Not to be used with date | false | 1995-06-16 | date
 end_date | YYYY-MM-DD | date | If start_date is specified without an end_date then end_date defaults to the current date. | false | NA | NA
-thumbs | boolean | false | Indicates whether the API should return a thumbnail image URL for video files | false | NA | NA
+thumbs | boolean | false | Depicts whether the API should return a thumbnail image URL for video files | false | NA | NA
 
 NA : Not Applicable
 <!--EndFragment-->
@@ -83,6 +83,21 @@ url | The URL of the APOD image or video of the day.
 <!--EndFragment-->
 </body>
 </html>
+
+<html>
+<body>
+<!--StartFragment-->
+
+Response | Message | 
+-- | --
+200| Success
+400 | Error Date parameter must be between Jun 16, 1995 and today's date.
+403| API key is missing
+
+<!--EndFragment-->
+</body>
+</html>
+
 
 
 
