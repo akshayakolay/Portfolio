@@ -1,0 +1,389 @@
+---
+openapi: 3.0.3
+info:
+  title: Current Weather Data API
+  description: The API provides the weather data for wide range of cities and locations on earth.You can search  weather data of 20000 cities all around the world.
+  contact:
+    name: Akshaya Kolay
+    email: akshaya.kolay@gmail.com
+  version: 1.0.0
+servers:
+- url: https://virtserver.swaggerhub.com/akshayakolay/Current_Weather_Data_API/1.0.0
+  description: SwaggerHub API Auto Mocking
+- url: https://api.openweathermap.org/data/2.5
+security:
+- app_id: []
+paths:
+  /weather:
+    get:
+      tags:
+      - Get Weather
+      description: Fetches the weather of location based on the latitude, longitude of that place.
+      parameters:
+      - name: lon
+        in: query
+        description: Longitude of the location.
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      - name: lat
+        in: query
+        description: Latitude of the location.
+        required: true
+        style: form
+        explode: true
+        schema:
+          type: string
+      - name: units
+        in: query
+        description: Customize the response format either in XML or JSON. The default API response is generated in JSON.
+        required: false
+        style: form
+        explode: true
+        schema:
+          type: string
+          default: imperial
+          enum:
+          - standard
+          - metric
+          - imperial
+      - name: mode
+        in: query
+        description: Customize the response format either in XML or JSON. The default API response is generated in JSON.
+        required: false
+        style: form
+        explode: true
+        schema:
+          type: string
+          default: JSON
+          enum:
+          - XML
+          - JSON
+      - name: lang
+        in: query
+        description: Choose the language to display the response.
+        required: false
+        style: form
+        explode: true
+        schema:
+          type: string
+          enum:
+          - af Afrikaans
+          - al Albanian
+          - ar Arabic
+          - az Azerbaijani
+          - bg Bulgarian
+          - ca Catalan
+          - cz Czech
+          - da Danish
+          - de German
+          - el Greek
+          - en English
+          - eu Basque
+          - fa Persian
+          - fi Finnish
+          - fr French
+          - gl Galician
+          - he Hebrew
+          - hi Hindi
+          - hr Croatian
+          - hu Hungarian
+          - id Indonesian
+          - it Italian
+          - ja Japanese
+          - kr Korean
+          - la Latvian
+          - lt Lithuanian
+          - mk Macedonian
+          - no Norwegian
+          - nl Dutch
+          - pl Polish
+          - pt Portuguese
+          - pt_br Português Brasil
+          - ro Romanian
+          - ru Russian
+          - sv, se Swedish
+          - sk Slovak
+          - sl Slovenian
+          - sp, es Spanish
+          - sr Serbian
+          - th Thai
+          - tr Turkish
+          - ua, uk Ukrainian
+          - vi Vietnamese
+          - zh_cn Chinese Simplified
+          - zh_tw Chinese Traditional
+          - zu Zulu
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/200'
+        "404":
+          description: Weather data not found
+          content:
+            text/plain:
+              schema:
+                title: Data not found
+                type: string
+                example: Not found
+components:
+  schemas:
+    "200":
+      title: It works!
+      type: object
+      properties:
+        coord:
+          $ref: '#/components/schemas/Coords'
+        weather:
+          type: array
+          items:
+            $ref: '#/components/schemas/Weather'
+        base:
+          type: string
+          example: stations
+        main:
+          $ref: '#/components/schemas/Main'
+        visibility:
+          type: integer
+          description: distance you can see with naked eyes. Usually in meters.
+          example: 27
+        wind:
+          type: array
+          items:
+            $ref: '#/components/schemas/Wind'
+        clouds:
+          type: array
+          items:
+            $ref: '#/components/schemas/Clouds'
+        dt:
+          type: array
+          items:
+            $ref: '#/components/schemas/Date'
+        sys:
+          type: array
+          items:
+            $ref: '#/components/schemas/System'
+    Coords:
+      title: Coords
+      type: object
+      properties:
+        lon:
+          type: number
+          description: longitude of the location
+          example: 14.0478
+        lat:
+          type: number
+          description: latitude of the location
+          example: 57.1832
+    Weather:
+      title: Weather
+      type: object
+      properties:
+        id:
+          type: integer
+          description: ID based on the weather condition
+          example: 804
+        main:
+          type: string
+          example: Clouds
+        description:
+          type: string
+          example: Overcast clouds
+        icon:
+          type: string
+          example: 04d
+    Main:
+      title: Main
+      type: object
+      properties:
+        temp:
+          type: number
+          description: Current temperature. Default-Kevin,  Metric- Celsius, Imperial- Fahrenheit.
+          example: 275.34
+        feels_like:
+          type: number
+          description: Depicts the real feel of the temperature.
+          example: 273.21
+        temp_min:
+          type: number
+          description: Minimum temperature drop at a given point in a day.
+          example: 274.96
+        temp_max:
+          type: number
+          description: Maximum temperature at a given point in a day.
+          example: 276.31
+        pressure:
+          type: integer
+          description: Atmospheric pressure.
+          example: 1032
+        humidity:
+          type: integer
+          description: Humdity in %.
+          example: 1
+    Wind:
+      title: Wind
+      type: object
+      properties:
+        speed:
+          type: number
+          description: Wind speed in m/sec
+          example: 2.03
+        deg:
+          type: number
+          description: wind direction in degrees.
+          example: 52
+        gust:
+          type: number
+          description: wind gust. Sudden but brief increase in the speed of the wind in miles/hour.
+          example: 4.2
+    Clouds:
+      title: Clouds
+      type: object
+      properties:
+        all:
+          type: number
+          description: Cloudiness in %.
+          example: 100
+    Date:
+      title: Time
+      type: object
+      properties:
+        dt:
+          type: string
+          description: Time of the weather calculation
+          example: "1669902845"
+    System:
+      title: System
+      type: object
+      properties:
+        type:
+          type: integer
+          description: internal parameter/value
+          format: int32
+          example: 2
+        id:
+          type: integer
+          description: internal parameter/value
+          format: int32
+          example: 2664855
+        name:
+          type: string
+          description: Name of the location/city/town.
+          example: Värnamo
+        cod:
+          type: integer
+          description: internal parameter/value
+          example: 200
+  parameters:
+    lon:
+      name: lon
+      in: query
+      description: Longitude of the location.
+      required: true
+      style: form
+      explode: true
+      schema:
+        type: string
+    lat:
+      name: lat
+      in: query
+      description: Latitude of the location.
+      required: true
+      style: form
+      explode: true
+      schema:
+        type: string
+    units:
+      name: units
+      in: query
+      description: Customize the response format either in XML or JSON. The default API response is generated in JSON.
+      required: false
+      style: form
+      explode: true
+      schema:
+        type: string
+        default: imperial
+        enum:
+        - standard
+        - metric
+        - imperial
+    mode:
+      name: mode
+      in: query
+      description: Customize the response format either in XML or JSON. The default API response is generated in JSON.
+      required: false
+      style: form
+      explode: true
+      schema:
+        type: string
+        default: JSON
+        enum:
+        - XML
+        - JSON
+    lang:
+      name: lang
+      in: query
+      description: Choose the language to display the response.
+      required: false
+      style: form
+      explode: true
+      schema:
+        type: string
+        enum:
+        - af Afrikaans
+        - al Albanian
+        - ar Arabic
+        - az Azerbaijani
+        - bg Bulgarian
+        - ca Catalan
+        - cz Czech
+        - da Danish
+        - de German
+        - el Greek
+        - en English
+        - eu Basque
+        - fa Persian
+        - fi Finnish
+        - fr French
+        - gl Galician
+        - he Hebrew
+        - hi Hindi
+        - hr Croatian
+        - hu Hungarian
+        - id Indonesian
+        - it Italian
+        - ja Japanese
+        - kr Korean
+        - la Latvian
+        - lt Lithuanian
+        - mk Macedonian
+        - no Norwegian
+        - nl Dutch
+        - pl Polish
+        - pt Portuguese
+        - pt_br Português Brasil
+        - ro Romanian
+        - ru Russian
+        - sv, se Swedish
+        - sk Slovak
+        - sl Slovenian
+        - sp, es Spanish
+        - sr Serbian
+        - th Thai
+        - tr Turkish
+        - ua, uk Ukrainian
+        - vi Vietnamese
+        - zh_cn Chinese Simplified
+        - zh_tw Chinese Traditional
+        - zu Zulu
+  securitySchemes:
+    app_id:
+      type: apiKey
+      description: Authorize the requests with the API key. Visit the site  https://openweathermap.org/ and sign in to get the API key.
+      name: appid
+      in: query
