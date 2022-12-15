@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Getting Started Guide for Snipping Tool</title>
+    <topichead navtitle="About the guide">
+        <topicref href="disclaimer.dita"/>
+        <topicref href="what_is_snipping_tool.dita"/>
+    </topichead>
+    <topichead navtitle="Start the Snipping Tool">
+        <topicref href="how_to_open_the_tool_0.dita"/>
+    </topichead>
+    <topichead navtitle="Capture a Snip">
+        <topicref href="Free-form%20Snip%20.dita"/>
+        <topicref href="rectangular_snip.dita"/>
+    </topichead>
+</map>

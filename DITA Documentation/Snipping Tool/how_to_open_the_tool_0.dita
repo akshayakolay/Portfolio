@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_open_the_tool_0">
+    <title>How to Open the Tool?</title>
+    <shortdesc>In this section, you will learn to start the Snipping Tool. </shortdesc>
+    <taskbody>
+        <prereq id="prereq_ztz_cxp_gtb">Make sure that you are working on Windows 8.</prereq>
+        <steps>
+            <step>
+                <cmd>Choose Start Windows icon.</cmd>
+            </step>
+            <step>
+                <cmd>Enter "Snipping Tool" in the search box.</cmd>
+            </step>
+            <step>
+                <cmd>Click on Snipping Tool from the list of programs. </cmd>
+            </step>
+        </steps>
+        <result id="result_xv3_typ_gtb">You can view the Snipping Tool application on your
+            screen.</result>
+    </taskbody>
+</task>

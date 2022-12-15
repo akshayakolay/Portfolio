@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="untitled3">
+    <title>Capture a Free-form Snip</title>
+    <shortdesc>In this section, you will learn to capture a snip using Free-form
+        feature.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_zgy_r1q_gtb">Make sure Snipping Tool application is open. </prereq>
+        <steps>
+            <step>
+                <cmd>Click New and select Free-form Snip option.</cmd>
+            </step>
+            <step>
+                <cmd>Draw a free-form shape around the object.</cmd>
+            </step>
+        </steps>
+        <result id="result_eyg_kfq_gtb">You can view the captured image on the screen.</result>
+    </taskbody>
+</task>

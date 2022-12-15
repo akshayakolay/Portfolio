@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="disclaimer">
+    <title>Disclaimer</title>
+    <body>
+        <p>The guide is intended to get you started with the Snipping Tool. </p>
+        <p>This document provides step-by-step instructions for creating, editing and sharing the
+            image snippet. </p>
+        <p><b>Disclaimer: This guide covers the features for Windows 8.1 and is solely for the
+                demonstration purpose. </b></p>
+        <p><b>My intention is to showcase DITA XML skills through the document.</b></p>
+    </body>
+</topic>
