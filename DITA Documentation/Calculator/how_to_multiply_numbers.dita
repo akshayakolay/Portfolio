@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_multiply_numbers">
+    <title>How to multiply numbers</title>
+    <shortdesc>Here you will find the instructions to perform subtraction on the Calculator
+        app.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_zbm_s31_ftb">To successfully perform subtraction operation, you must know
+            about the concept of subtraction.</prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the multiply (x) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_xrz_1j1_ftb">The multiplication result is displayed on the
+            screen.</result>
+        <example id="example_e4t_dj1_ftb">You want to multiply 2 and 5. The equation will look like
+            5x2=10. You enter 5. Press (x). Enter 2. Press (=) <p>The result 10 appears on the
+                screen.</p></example>
+    </taskbody>
+</task>

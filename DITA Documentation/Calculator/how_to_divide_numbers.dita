@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_divide_numbers">
+    <title>How to divide numbers</title>
+    <shortdesc>Here you will find the instructions to perform subtraction on the Calculator
+        app.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_kjv_y41_ftb">To successfully perform division operation, you must know
+            about the concept of division.</prereq>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd id="cmd_kkn_gqn_ftb">Press the divide (÷) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the equal (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_a5p_bp1_ftb">The division result is displayed on the screen. <p>You want
+                to divide two numbers 4 and 2. The equation will look like 4/2=2. You enter 4. Press
+                (/). Enter 2. Press (=) The result 2 appears on the screen.</p></result>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_add_numbers">
+    <title>How to add numbers</title>
+    <shortdesc>Here you will find the instructions to perform addition on the Calculator
+        app.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ujt_x5y_2tb">To successfully perform addition operation, you must know
+            about the concept of addition.</prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the add (+) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Press the equal (=) button.</cmd>    
+            </step>
+        </steps>
+        <result id="result_bvx_rvy_2tb">The addition result is displayed on the screen.</result>
+        <example id="example_xnv_bwy_2tb">You want to add 2 and 5. The equation will look like 2+5=7.
+            You enter 2. Press (+). Enter 5. Press (=)  <p>The result 7 appears on the screen.
+            </p></example>
+        
+    </taskbody>
+</task>
