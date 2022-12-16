@@ -87,6 +87,8 @@ url | The URL of the APOD image or video of the day.
 <html>
 <body>
 <!--StartFragment-->
+ 
+ ## APOD response status codes
 
 Response | Message | 
 -- | --
