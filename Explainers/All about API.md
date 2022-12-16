@@ -30,11 +30,10 @@ To understand the concept of API, let us conside a waiter in a restaurant.
 This is the perfect example of how an API works.
 
 The Roles:
-You- The application that has requested some information.
-Waiter- API
-Menu- information that needs to delieverd.
-Chef-  The another application from which you want the response. 
-The way how waiter acts as a medium to communicate between you and the chef. Same way API communicates between the two applications. 
+* You- The application that has requested some information.
+* Waiter-The way how waiter acts as a medium to communicate between you and the chef. Same way API communicates between the two applications. 
+* Menu- information that needs to delieverd.
+* Chef-  The another application from which you want the response. 
 
 
 
