@@ -21,22 +21,23 @@ This application allows streamers to create content and share it with the Twitch
 
 ## Steps to download twitch studio
 1. Go to “https://www.twitch.tv/broadcast/studio”
-2. Click on “Download now”.
+2. Click on **Download now**.
 3. Double-click to open the downloaded .exe file.
-4. Click on Install, and wait for the setup to finish.
-5. Sign up for Twitch or enter the login details if you have signed up already.
+4. Click on **Install**, and wait for the setup to finish.
+5. **Sign up** for Twitch or enter the **login details** if you have signed up already.
 
 ## Steps to Signup for Twitch
-1. Follow the link: “https://www.twitch.tv/signup”.
+1. Follow the link “https://www.twitch.tv/signup”.
 2. Enter your Username, Password, Date of Birth, Email or Phone number.
-3. Click Sign up.
+3. Click **Sign up**.
 
 ## Steps to set up the studio
-1. Click Get started on the pop-up window to continue. 
-2. Click Change Mic, if you want to set up the new mic. Go to Personalize option (know more in references) to customize sound settings. Click Continue to  Scenes for using the system’s default mic. 
-3. Click Continue to Scene to choose a default screen layout.
-4. Continue to settings, Review the settings once. Go to Adjust settings to customize parameters. (Know more about the parameters in references)
-5. Click live stream and you are good to go.
+1. Click **Get started** on the pop-up window to continue. 
+2. Click **Change Mic**, if you want to set up the new mic. Go to **Personalize** option to customize sound settings. 
+3. Click **Continue to Scenes** for using the system’s default mic. 
+4. Click **Continue to Settings** to choose a default screen layout.
+5. Continue to settings, Review the settings once. Go to Adjust settings to customize parameters.
+6. Click **Live Stream**.
 
 ## FAQ:
 1. What is the idea behind building Twitch studio?
