@@ -61,6 +61,12 @@ The individual components of tiles and panels are movable. It allows you to rear
 |Stream Info|Depicts a light weight version of Stream Preview.|
 |UNBAN req|Depicts the list of viewers banned from sending chat messages. The blocked viewer can send a request to unblock. Those requests appear in the UNBAN requests.|
 
+## FAQ
+1) Can I place the whole Stat Panel somewhere else on the screen?
+
+   No. The whole stat panel is fixed only the components are movable.
+   
+  
 
 
 
