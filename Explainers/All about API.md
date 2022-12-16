@@ -64,6 +64,18 @@ Benefits: 		Good strategic relation
      		Brand recognition
       		Increase revenue
 
+## API Architecture Types
+
+Architecture Styles: Architecture syles provide some rules and protocols based on which the data exchange between the two software components happen over the internet. The following architectural styles are popularly used popularly for the transfer of data.
+
+Rest API- The REST API stands for Representational State Transfer. The data exchange between software programs happen in accordance to HTTP methods (Get, Put, Post, and Delete). The three main components of this architecture styles are Client (sends the request), Server(returns a response) and Resource (information that is exchanged). URL are required as endpoints.
+
+SOAP- The XML based messaging protocol which includes the Envelope, Header, and Body tags as used as endpoints. Much stricter, for enterprise,HTTP, TCP, UDP, and SMTP as a transport.
+
+gRPC- It is a modern day rpc protocol developed by google. The RPC in gRPC stands for Remote Procedure Call. The gRPC uses client-server mechanism and uses function call. The gRPC uses an IDL (Interface Definition Language) contract to define which functions to call and what data to use.
+
+GraphQL- 
+
 
 
 
