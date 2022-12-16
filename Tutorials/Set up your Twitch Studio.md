@@ -51,7 +51,7 @@ This application allows streamers to create content and share it with the Twitch
 
 3. Which parameters decide the optimal broadcasting of the stream?
    
-   Twitch has set the best running conditions for a live stream. But, if you want to tweak it as per your need you can do that too. The parameters that regulate          broadcasting are [encoding](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/know%20more.md#1-what-is-encoding), bitrate, resolution and Frame rate. 
+   Twitch has set the best running conditions for a live stream. But, if you want to tweak it as per your need you can do that too. The parameters that regulate          broadcasting are [encoding](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/know%20more.md#1-what-is-encoding), [bitrate](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/know%20more.md#2-what-is-bitrate), [resolution](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/know%20more.md#3-how-does-resolution-affects-the-streaming) and [Frame rate](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/know%20more.md#4-what-are-scenes). 
 
 
 
