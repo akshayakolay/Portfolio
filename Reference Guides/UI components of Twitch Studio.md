@@ -10,7 +10,7 @@ The **panel** provides the tools to manage the look and feel of the stream. It a
 The individual components of tiles and panels are movable. It allows you to rearrange, add/delete, and adjust the size of these components as per your need.
 
 ## Prerequisities
-* Set up a Twitch Studio
+* [Set up a Twitch Studio](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20your%20Twitch%20Studio.md#steps-to-set-up-the-studio).
 
 ## How to add the panels and stat tiles?
 1) Click the **Edit Layout** icon.
