@@ -36,7 +36,7 @@ The individual components of tiles and panels are movable. It allows you to rear
 2) On the border of two panels,  place the cursor.
 3) The purple colour appears between the panels. Shrink or expand the size of the element as per the need.
 
-## List of Stat Tiles 
+## List of Stat Tiles conmponents
 |Stat Tiles|Description|
 |----------|-----------| 
 |Session|Shows the duration/length of the stream.|
@@ -44,12 +44,22 @@ The individual components of tiles and panels are movable. It allows you to rear
 |Viewers|Shows the number of people watching the live stream on the channel.|
 |Kbps Upload|Shows the speed of the internet connection(bitrate) to send data from your device to the server.|
 |Encoder FPS|Shows the rate to compress the frame per second.|
-|Frame Drops|Shows the slow internet rate that results in missing the frame to match the speed of the stream.
-Higher frame drops result in choppy video.|
-|Slow Frames|Shows large workload on CPU/GPU above the rated capacity results in slow frames. 
-Slow frames affect the video quality.|
+|Frame Drops|Shows the slow internet rate that results in missing the frame to match the speed of the stream.Higher frame drops result in choppy video.|
+|Slow Frames|Shows large workload on CPU/GPU above the rated capacity results in slow frames. Slow frames affect the video quality.|
 |Memory|Shows the CPU utilization by the Twitch application.|
 
+## List of avaialble panel components
+|Panels|Description|
+|------|-----------|
+|Scenes|Scenes are a layout that appears on the screen during the broadcast, when you’re away, or during a chat session. It helps to give your stream a professional and neat look.|
+|Stream Preview|Shows a preview of your stream and also information such as stream title, category, and tags with the option to edit.|
+|Activity Feed|Shows the notification on your channel such as new followers, cheers, and bits.|
+|My Chat|Shows the messages from your followers. You can get in touch with your followers to exchange messages directly.|
+|Active Mods|Shows the total number of moderators monitoring the chat from followers.|
+|Automod Queue|Shows the list of messages identified by the auto moderator that contains objectionable content. The moderator reviews such messages before it appears on the chat window.|
+|Reward Requests Queue|Depicts the queue from the activity feed, you can also access your rewards queue by selecting the pop-out icon. You can use this queue to view and manage all your channel points. Mark as Complete when you've redeemed the request. If you choose to Reject, the points will be returned to the viewer.|
+|Stream Info|Depicts a light weight version of Stream Preview.|
+|UNBAN req|Depicts the list of viewers banned from sending chat messages. The blocked viewer can send a request to unblock. Those requests appear in the UNBAN requests.|
 
 
 
