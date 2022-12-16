@@ -36,6 +36,25 @@ The individual components of tiles and panels are movable. It allows you to rear
 2) On the border of two panels,  place the cursor.
 3) The purple colour appears between the panels. Shrink or expand the size of the element as per the need.
 
+## List of Stat Tiles 
+|Stat Tiles|Description|
+|----------|-----------| 
+|Session|Shows the duration/length of the stream.|
+|Followers|Shows the number of people subscribed to the channel and follows its content.|
+|Viewers|Shows the number of people watching the live stream on the channel.|
+|Kbps Upload|Shows the speed of the internet connection(bitrate) to send data from your device to the server.|
+|Encoder FPS|Shows the rate to compress the frame per second.|
+|Frame Drops|Shows the slow internet rate that results in missing the frame to match the speed of the stream.
+Higher frame drops result in choppy video.|
+|Slow Frames|Shows large workload on CPU/GPU above the rated capacity results in slow frames. 
+Slow frames affect the video quality.|
+|Memory|Shows the CPU utilization by the Twitch application.|
+
+
+
+
+
+
 
 
 
