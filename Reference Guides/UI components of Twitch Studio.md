@@ -21,10 +21,20 @@ The individual components of tiles and panels are movable. You can do following 
 
 ![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
 
-3) Click **+** icon on the extreme right side of the screen to open the Stat Tiles and Panel layout.
-4) Add the stat tile/panel element by dragging and dropping the UI component. The background colour of the placeholder gets highlighted with purple before dropping the   element. 
-5) Release the cursor.
-6) Click the **Lock Layout** icon.
+2) Click **+** icon on the extreme right side of the screen to open the Stat Tiles and Panel layout.
+
+![layout open](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/layout%20open.png)
+
+
+3) Add the stat tile/panel element by dragging and dropping the UI component. The background colour of the placeholder gets highlighted with purple before dropping the   element. 
+
+![purple highlight](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/purple%20highlight.png)
+
+4) Release the cursor.
+
+5) Click the **Lock Layout** icon.
+
+![lock layout](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/lock%20layout.png)
 
 ## How to remove the Panels and Stat Tiles?
 1) Click the **Edit Layout** icon.
