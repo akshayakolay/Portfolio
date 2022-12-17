@@ -17,7 +17,7 @@ The individual components of tiles and panels are movable. You can do following 
 * [Set up a Twitch Studio](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20your%20Twitch%20Studio.md#steps-to-set-up-the-studio).
 
 ## How to add the panels and stat tiles?
-1) Click the icon.
+1) Click the **Edit layout** icon.
 
 ![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
 
@@ -38,20 +38,41 @@ The individual components of tiles and panels are movable. You can do following 
 
 ## How to remove the Panels and Stat Tiles?
 1) Click the **Edit Layout** icon.
+
+![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
+
 2) Click on the **X** icon and remove the element(s).
-3) Click the **Lock Layout** icon.
+
+![remove](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/remove.png)
+
+4) Click the **Lock Layout** icon.
+
+![lock layout](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/lock%20layout.png)
 
 ## How to rearrange/change the place of the tiles?
 1) Click the **Edit layout** icon.
+
+![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
+
 2) Click on the element and drag it to the intended position.
 3) Overlay on the existing tile, the background colour changes to purple.
+![replace](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/replace.png)
+
 4) Release the cursor
 5) Click the **Lock Layout** icon.
 
+![lock layout](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/lock%20layout.png)
+
 ## How to adjust the size?
 1) Click **Edit layout** icon.
-2) On the border of two panels,  place the cursor.
+
+![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
+
+2) On the border of two panels, place the cursor.
 3) The purple colour appears between the panels. Shrink or expand the size of the element as per the need.
+
+![panel shrink](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/panel%20shrink.png)
+
 
 ## List of Stat Tiles conmponents
 |Stat Tiles|Description|
