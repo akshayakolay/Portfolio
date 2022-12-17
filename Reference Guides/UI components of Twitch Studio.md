@@ -17,11 +17,11 @@ The individual components of tiles and panels are movable. You can do following 
 * [Set up a Twitch Studio](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20your%20Twitch%20Studio.md#steps-to-set-up-the-studio).
 
 ## How to add the panels and stat tiles?
-1) Click the **Edit layout** icon.
+1) Click the **Edit layout**.
 
 ![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
 
-2) Click **+** icon on the extreme right side of the screen to open the Stat Tiles and Panel layout.
+2) Click **+** on the extreme right side of the screen to open the Stat Tiles and Panel layout.
 
 ![layout open](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/layout%20open.png)
 
@@ -32,25 +32,25 @@ The individual components of tiles and panels are movable. You can do following 
 
 4) Release the cursor.
 
-5) Click the **Lock Layout** icon.
+5) Click the **Lock Layout**.
 
 ![lock layout](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/lock%20layout.png)
 
 ## How to remove the Panels and Stat Tiles?
-1) Click the **Edit Layout** icon.
+1) Click the **Edit Layout**.
 
 ![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
 
-2) Click on the **X** icon and remove the element(s).
+2) Click on the **X** and remove the element(s).
 
 ![remove](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/remove.png)
 
-4) Click the **Lock Layout** icon.
+4) Click the **Lock Layout**.
 
 ![lock layout](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/lock%20layout.png)
 
 ## How to rearrange/change the place of the tiles?
-1) Click the **Edit layout** icon.
+1) Click the **Edit layout**.
 
 ![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
 
@@ -59,12 +59,12 @@ The individual components of tiles and panels are movable. You can do following 
 ![replace](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/replace.png)
 
 4) Release the cursor
-5) Click the **Lock Layout** icon.
+5) Click the **Lock Layout**.
 
 ![lock layout](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/lock%20layout.png)
 
 ## How to adjust the size?
-1) Click **Edit layout** icon.
+1) Click **Edit layout**.
 
 ![**Edit Layout**](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/edit%20layout%20window.png)
 
