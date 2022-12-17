@@ -1,17 +1,17 @@
-https://devopscurry.com/understanding-the-role-of-devops-professional-in-2020/
+* https://bytesbin.com/icloud-vs-google-drive-vs-onedrive/
 
-https://devopscurry.com/key-devops-principles-to-focus-in-2021/
+* https://www.digitbin.com/lidar-android-camera/
 
-https://devopscurry.com/devops-lifecycle-and-understanding-different-phases/
+* https://www.digitbin.com/fix-iphone-bluetooth-not-working/
 
-https://devopscurry.com/looking-at-different-types-of-devops-deployment-strategies-in-2021/
+* https://bytesbin.com/google-slides-change-theme-background-or-layout/
 
-https://www.digitbin.com/lidar-android-camera/
+* https://www.digitbin.com/tutubox-lite/
 
-https://www.digitbin.com/fix-iphone-bluetooth-not-working/
+* https://devopscurry.com/understanding-the-role-of-devops-professional-in-2020/
 
-https://bytesbin.com/google-slides-change-theme-background-or-layout/
+* https://devopscurry.com/key-devops-principles-to-focus-in-2021/
 
-https://bytesbin.com/icloud-vs-google-drive-vs-onedrive/
+* https://devopscurry.com/devops-lifecycle-and-understanding-different-phases/
 
-https://www.digitbin.com/tutubox-lite/
+* https://devopscurry.com/looking-at-different-types-of-devops-deployment-strategies-in-2021/
