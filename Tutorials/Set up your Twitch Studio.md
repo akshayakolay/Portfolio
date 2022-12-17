@@ -1,10 +1,10 @@
 # Set up your Twitch Studio 
 
-The tutorial helps to set up Twitch Studio as a streamer. 
+The tutorial will help you to learn to set up Twitch Studio as a streamer. 
 
 ## What is Twitch studio?
 Twitch Studio is a place where passionate streamers and enthusiastic viewers meet. 
-This application allows streamers to create content and share it with the Twitch community
+It provides a dedicated environment for streamers and the required tools to create and share content among the Twitch community.
 
 ## System Requirements
 1. Windows 8 and above
