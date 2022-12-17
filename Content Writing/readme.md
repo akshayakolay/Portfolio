@@ -1,3 +1,6 @@
+**Wrote the following write-ups as a freelance technical content writer.**
+
+
 * https://bytesbin.com/icloud-vs-google-drive-vs-onedrive/
 
 * https://www.digitbin.com/lidar-android-camera/
