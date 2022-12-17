@@ -67,7 +67,7 @@ The individual components of tiles and panels are movable. It allows you to rear
    
 2) What is the difference between Twitch studio and Twitch Dashboard?
 
-   **Twitch Studio:** It provides the environment and tools needed for new streamer to strat streaming from scratch. If you want to stream in twitch use twitch studio.   But if you want to push our stream on other patfors alos use OBS.
+   **Twitch Studio:** It provides the environment and tools needed for new streamer to start streaming from scratch. If you want to stream in twitch use twitch studio.   But if you want to push the stream on other platforms also use OBS.
 
    **Twitch Dashboard:** It is the place or home for streamers that gives users for managing analytics, checking revenues. 
       Home is the default landing page for new streamers that surfaces personalized tips and best practices, learning material, and progress towards achievements on your path to Affiliate. Please note, Home is currently not available for Affiliates or Partners.
