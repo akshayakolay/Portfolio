@@ -7,7 +7,11 @@ The **Stat Tile** components depict the data related to the network and the syst
 
 The **panel** provides the tools to manage the look and feel of the stream. It also manages the chat section, checks the activity feed, and much more.
 
-The individual components of tiles and panels are movable. It allows you to rearrange, add/delete, and adjust the size of these components as per your need.
+The individual components of tiles and panels are movable. You can do following actions with the components:
+* [Add](https://github.com/akshayakolay/Portfolio/edit/main/Reference%20Guides/UI%20components%20of%20Twitch%20Studio.md#how-to-add-the-panels-and-stat-tiles)
+* [Delete](https://github.com/akshayakolay/Portfolio/edit/main/Reference%20Guides/UI%20components%20of%20Twitch%20Studio.md#how-to-remove-the-panels-and-stat-tiles)
+* [Rearrange](https://github.com/akshayakolay/Portfolio/edit/main/Reference%20Guides/UI%20components%20of%20Twitch%20Studio.md#how-to-rearrangechange-the-place-of-the-tiles)
+* [Adjust the size](https://github.com/akshayakolay/Portfolio/edit/main/Reference%20Guides/UI%20components%20of%20Twitch%20Studio.md#how-to-adjust-the-size)
 
 ## Prerequisities
 * [Set up a Twitch Studio](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20your%20Twitch%20Studio.md#steps-to-set-up-the-studio).
@@ -63,7 +67,8 @@ The individual components of tiles and panels are movable. It allows you to rear
 
 ## FAQ
 1) Can I place the whole Stat Panel somewhere else on the screen?
-   No. The whole stat panel is fixed only the individual components are movable.
+
+   No. The whole stat panel is fixed but the individual components are movable.
    
 2) What is the difference between Twitch studio and Twitch Dashboard?
 
