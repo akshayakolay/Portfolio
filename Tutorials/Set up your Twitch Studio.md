@@ -33,10 +33,24 @@ It provides a dedicated environment for streamers and the required tools to crea
 
 ## Steps to set up the studio
 1. Click **Get started** on the pop-up window to continue. 
+
+![get started](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images/get%20started.png)
+
 2. Click **Change Mic**, if you want to set up the new mic. Go to **Personalize** option to customize sound settings. 
-3. Click **Continue to Scenes** to choose a default screen layout. You can edit these after finishing the first time setup flow 
+
+![change mic](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images/change%20mic.png)
+
+3. Click **Continue to Scenes** to choose a default screen layout. You can edit these after setting up the studio.
+
+![continue to scenes](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images/continue%20to%20scenes.png)
+
 4. Click **Continue to Settings** to review the settings once. Go to **Adjust settings** to customize parameters.
+
+![continue to settings](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images/continue%20to%20settings.png)
+
 5. Click **Continue to App** to start the streaming.
+
+![continue to app](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images/continue%20to%20app.png)
 
 ## FAQ
 1. What is the idea behind building Twitch studio?
