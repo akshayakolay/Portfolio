@@ -34,10 +34,9 @@ It provides a dedicated environment for streamers and the required tools to crea
 ## Steps to set up the studio
 1. Click **Get started** on the pop-up window to continue. 
 2. Click **Change Mic**, if you want to set up the new mic. Go to **Personalize** option to customize sound settings. 
-3. Click **Continue to Scenes** for using the system’s default mic. 
-4. Click **Continue to Settings** to choose a default screen layout.
-5. Click **Continue to settings**, Review the settings once. Go to **Adjust settings** to customize parameters.
-6. Click **Continue to App** to start the streaming.
+3. Click **Continue to Scenes** to choose a default screen layout. You can edit these after finishing the first time setup flow 
+4. Click **Continue to Settings** to review the settings once. Go to **Adjust settings** to customize parameters.
+5. Click **Continue to App** to start the streaming.
 
 ## FAQ
 1. What is the idea behind building Twitch studio?
