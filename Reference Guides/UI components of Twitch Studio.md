@@ -45,7 +45,7 @@ The individual components of tiles and panels are movable. You can do following 
 
 ![remove](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/remove.png)
 
-4) Click the **Lock Layout**.
+3) Click the **Lock Layout**.
 
 ![lock layout](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/lock%20layout.png)
 
