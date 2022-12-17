@@ -36,10 +36,10 @@ It provides a dedicated environment for streamers and the required tools to crea
 2. Click **Change Mic**, if you want to set up the new mic. Go to **Personalize** option to customize sound settings. 
 3. Click **Continue to Scenes** for using the system’s default mic. 
 4. Click **Continue to Settings** to choose a default screen layout.
-5. Continue to settings, Review the settings once. Go to Adjust settings to customize parameters.
-6. Click **Live Stream**.
+5. Click **Continue to settings**, Review the settings once. Go to **Adjust settings** to customize parameters.
+6. Click **Continue to App** to start the streaming.
 
-## FAQ:
+## FAQ
 1. What is the idea behind building Twitch studio?
     
     The budding streamers often don’t continue streaming or even fail to start it thinking it’s tedious. 
