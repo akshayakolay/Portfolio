@@ -8,7 +8,7 @@ If you have any questions about me and my work, feel free to send a message to m
 
 **A small note-**
 
-The actual documents are not shared due to confidentiality.
+The official work writeups are not shared due to confidentiality.
 
 
 Thank you for visiting!
