@@ -1,8 +1,8 @@
 **Documentation Details:**
 
-I have drafted API documentation in markdown and swagger.
 
-* About: The samples provide the guidelines to implement an open API.
+
+* About: I have drafted API documentation in markdown and swagger.The samples provide the guidelines to implement an open API.
 
 * Target Audience: The API documentation is for the software developers. 
 
