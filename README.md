@@ -1,6 +1,6 @@
 Welcome to my technical writing portfolio repository!  :wave:
 
-This repository has items created to demonstrate my technical writing skills and usage of tools.
+This repository has items created to showcase my technical writing skills and usage of tools.
 
 I have experience in software documentation and application development (Android). Currently, I am trying to explore API documentation and topic-based authoring.
 
