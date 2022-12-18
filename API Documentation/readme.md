@@ -6,7 +6,7 @@ I have drafted API documentation in markdown and swagger.
 
 * Target Audience: The API documentation is for the software developers. 
 
-* Issues resolved: To properly use the API, developers need to know the technical details of the API. It covers details like ways to access the API, describes request and response parameters.  
+* Issues resolved:  To properly use the API, developers need to know the technical details of the API. The documentation covers details like ways to access the API, describes request and response parameters.  
 
 * Skills demonstrated: Open API Documentation, Markdown, yaml,  
 
