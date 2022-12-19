@@ -10,5 +10,5 @@
 
 * Skills demonstrated: Document Development Lifecycle (DDLC), Markdown
 
-* Tools used: GitHub, Skitch
+* Tools used: GitHub,Google Docs,Skitch
 
