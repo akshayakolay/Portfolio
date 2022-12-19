@@ -1,4 +1,10 @@
-**Wrote the following write-ups as a freelance technical content writer.**
+* About: Wrote the following write-ups as a freelance technical content writer.
+
+* Skills: SEO basics
+
+* Tools Used: Google Docs, Microsoft Word
+
+**List of samples:**
 
 
 * https://bytesbin.com/icloud-vs-google-drive-vs-onedrive/
