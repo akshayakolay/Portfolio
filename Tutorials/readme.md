@@ -1,6 +1,14 @@
-**Skills demonstrated:** Document Development Lifecycle (DDLC), Markdown
+**Documentation Details:**
 
-**Tools used:** GitHub Wiki, Skitch
+* About: The sample is an assignment of a technical writing workshop offered by Amruta Ranade. This tutorial describes the initial setup of Twitch Studio.
 
-**Please find the reference guide here:**
-https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20your%20Twitch%20Studio.md
+* Target audience: The tutorial is for users new to the application.
+
+* Issues resolved: The document helps the user to help with the initial setup.
+
+* Considerations: While drafting this document, I made sure to include screen captures for each step to showcase the user interface. I annotated the images with    markings. Also, I briefly explained prerequisites, purpose and result of action. At the end, I have added FAQ section as well.
+
+* Skills demonstrated: Document Development Lifecycle (DDLC), Markdown
+
+* Tools used: GitHub Wiki, Skitch
+
