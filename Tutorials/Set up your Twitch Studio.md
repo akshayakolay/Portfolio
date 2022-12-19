@@ -19,19 +19,19 @@ It provides a dedicated environment for streamers and the required tools to crea
    * RAM: 8GB+
    * CPU: 8-thread Intel or AMD
 
-## Steps to download twitch studio
+## Step 1- Download Twitch studio
 1. Go to “https://www.twitch.tv/broadcast/studio”
 2. Click on **Download now**.
 3. Double-click to open the downloaded .exe file.
 4. Click on **Install**, and wait for the setup to finish.
 5. **Sign up** for Twitch or enter the **login details** if you have signed up already.
 
-## Steps to Signup for Twitch
+## Step 2- Signup for Twitch
 1. Follow the link “https://www.twitch.tv/signup”.
 2. Enter your Username, Password, Date of Birth, Email or Phone number.
 3. Click **Sign up**.
 
-## Steps to set up the studio
+## Step 3- Set up the studio
 1. Click **Get started** on the pop-up window to continue. 
 
 ![get started](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images/get%20started.png)
