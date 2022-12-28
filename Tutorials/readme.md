@@ -1,6 +1,6 @@
 **Documentation Details:**
 
-* About: The sample is an assignment of a technical writing workshop offered by Amruta Ranade. The tutorial "Setup Twitch Studio" file describes the initial setup of Twitch Studio.
+* About: The sample is an assignment of a technical writing workshop offered by Amruta Ranade. The tutorial "Set up your Twitch Studio" file describes the initial setup of Twitch Studio.
 
 * Target audience: The tutorial is for users new to the application.
 
