@@ -1,6 +1,8 @@
 
 **Documentation Details:**
 
+Please find the Getting Started with Snipping Tool here: https://github.com/akshayakolay/Portfolio/wiki
+
 * Target audience: The Getting Started Guide is for users new to the application.
 
 * Issues resolved: The document helps the user to help with the initial setup get familiar with some functionalities.
@@ -11,4 +13,4 @@
 
 * Tools used: GitHub Wiki, Skitch
 
-  Please find the Getting Started with Snipping Tool here: https://github.com/akshayakolay/Portfolio/wiki
+  
