@@ -12,4 +12,4 @@
 
 * Tools used: Swagger Hub, Swagger Editor, Postman, GitHub
 
-**Note:** Please find the Current Weather Data API (Swagger)- https://app.swaggerhub.com/apis/akshayakolay/Current_Weather_Data_API/1.0.0
+**Note:** Please find the Current Weather Data API (Swagger)- https://app.swaggerhub.com/apis/akshayakolay/Current_Weather_Data_API/1.0.0. Try the API here: https://app.swaggerhub.com/apis-docs/akshayakolay/Current_Weather_Data_API/1.0.0#/Get%20Weather/get_weather
