@@ -9,7 +9,7 @@ NASA offers some open APIs so that developers can use them for application devel
 One such NASA API is APOD (Astronomy Picture of the day) is quite a popular website that features celestial objects of our universe. Each day a new picture from our universe is displayed. Today the image could be of a recently occurred lunar eclipse and tomorrow it could also be an image captured by the Mars rover. Some description along with other metadata is also provided with the image.
 
 ## How to get APOD API key?
-The first step is the authentication, to access any API. The APIs are authenticated via Key. The key looks like a string of numbers and alphabets and is typically used to authenticate a project with the API rather than a user.
+The first step is the authentication, to access any API. The APIs are authenticated via Key. The key looks like a string of numbers and alphabets and is typically used to authenticate a project associated with the API rather than a user.
 
 Follow the signup link https://api.nasa.gov/#signUp to access the APOD API key.
 
