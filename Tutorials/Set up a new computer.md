@@ -2,7 +2,7 @@ This tutorial is intended to help you to setup your PC and get started with the 
 
 1) Setup PC 
 
-2) Configure and connect to the internet
+2) Configure firewall and connect to the internet
  
 3) Activate and update the antivirus
 
