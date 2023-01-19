@@ -54,10 +54,20 @@ If you are not happy with that antivirus you can go ahead to install a new one o
 
 Note: windows 10 and 11 comes(windows security) inbuilt antivirus. That protects your system from you turn on the it. 
 
+Update the windows and other software
+It is considered a good practice to run a quick software and windows update. It helps to get you the latest version of programs and helps run the system smoothly.
+
+1) Go to Start.
+2) Enter Windows Update in the search box.
+3) Click Check for updates.
+4) Download and install the programs that are prompted and wait till the process is completed.
+5) Restart the computer once done.
+ 
 Start browsing the internet
 
-1) Open the desired search engine (google chrome, mozilla firefox, etc.)
+Now, the hardware and software setup is done. You can proceed to use the internet.
 
+1) Open the desired search engine (google chrome, mozilla firefox, etc.)
 2) Type in “northvolt.com” in the search bar and click Enter button.
 
 
