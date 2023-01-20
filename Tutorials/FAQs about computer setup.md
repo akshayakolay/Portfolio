@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a place dedeicated for you to get quick solution for your commonly asked questions.
+This is a place dedicated for you to get quick solution for your commonly asked questions.
 
 ## Troubleshooting 
 
