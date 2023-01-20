@@ -26,10 +26,27 @@ This tutorial is intended to help you to setup your PC and get started with the 
 
 1) Open the box/carton to find the desktop monitor, CPU and other components (mouse, keyboard).
 2) Place the monitor, CPU, and peripherals on a flat surface (preferably on a table). Make sure to put everything in a well-ventilated area so that enough air is circulated around the components and the parts do not get heated up.
+ 
+ ![setup_Step-1_on-desk_EDIT-02](https://user-images.githubusercontent.com/51504108/213732653-7577db44-532b-407c-b9a3-b7dceb71b4cb.jpg)
+
+
 3) Find the [HDMI](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#hdmi-cable-the-high-definition-media-interface-cable-is-used-to-generate-both-the-audio-and-video-output-you-dont-need-any-speakers-as-peripherals-for-this-cable-as-this-cable-is-capable-to-provide-audio-transmission-as-well)/[VGA](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#vga-cable-the-video-graphics-array-cable-is-used-in-computers-for-generating-video-output-on-the-monitor-essentially-it-is-a-bridge-between-the-computer-and-the-monitor-to-generate-the-audio-output-you-can-either-use-a-vga-to-hdmi-converter-cable-or-connect-the-speakers-as-peripherals)/[DVI](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#dvi-cable-the-digital-visual-interface-cable-is-used-to-provide-video-display-on-the-monitor-to-get-audio-support-use-dvi-to-hdmi-converter-cable-or-connect-the-speakers-as-peripherals) cable. Connect one end to the monitor while the other end goes into the designated slot on the back of the computer.
+
+![setup_Step-3_combined-ports-01](https://user-images.githubusercontent.com/51504108/213733157-0fe89118-93db-44b9-876c-6ccce4619abc.jpg)
+
 4) Similarly, find [USB](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#usb-cable-the-universal-serial-bus-is-used-to-connect-any-usb-supported-deviceperipherals-to-the-computer) or [PS/2](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#ps2-cable-the-cable-is-used-to-connect-the-wired-keyboard-and-mouse-ps2-ports-on-the-computer-have-two-colour-codes) cables for the keyboard, and mouse. Connect one end to the keyboard/mouse and another end to the USB/PS2 slot provided on the computer.
-5) Find the power supply cable and plug one end into a surge protector. It is recommended to use a surge protector to protct your computer from voltage fluctutaions.
+
+![setup_Step-4_USB-mouse-keyboard](https://user-images.githubusercontent.com/51504108/213733419-c9b1bc38-5b0d-4945-bce0-81e23af36931.jpg)
+
+5) Find the power supply cable and plug one end into a surge protector. It is recommended to use a surge protector to protct your computer from voltage fluctutations.
+
+![image](https://user-images.githubusercontent.com/51504108/213733530-72a544f8-ec1a-47d8-9b61-b0c1c7d911eb.png)
+
 6) Plug the surge protector into the electric socket in the wall.
+
+![image](https://user-images.githubusercontent.com/51504108/213733773-878af0f0-3b3c-4c57-a51f-e9bc31b6c0d7.png)
+
+
 7) Turn on the PC.
 
 ## Step 2- Enable the firewall 
