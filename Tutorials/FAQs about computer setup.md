@@ -18,7 +18,7 @@ Solution 3: If the computer is plugged in to a surge protector, check that it is
 
 Solution 1: Check your internet connection by clicking on the network icon in the bottom right corner. Check the ethernet cable to ensure that it is plugged into the desired slot.
   
-Solution 2: If you aren't connected, select the network you'd like to connect to, then select Connect. // refer
+Solution 2: [If you are not connected](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20a%20new%20computer.md#configure-and-connect-to-the-internet), select the network you'd like to connect to, then select Connect. // refer
   
 Solution 3: You can turn off the router and switch it back on after few seconds.
   
