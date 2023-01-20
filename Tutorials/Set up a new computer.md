@@ -59,7 +59,9 @@ A firewall is a security system that analyses internet traffic (incoming and out
 2) If you have bought a pre-configured system, OS will be installed on it. You can directly start with the setup which generally includes, setting date and time, language preferences and other parameters to enhance the user experience. 
 3) Go to **Start** > **Control Panel**
 4) Select the **System Security** > **Windows Firewall**
-5) Go to **Customize settings**, and enable the **Turn on Windows Firewall**option for both private and public network settings. 
+5) Go to **Customize settings**, and enable the **Turn on Windows Firewall** option for both private and public network settings. 
+
+![image](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images%20for%20computer%20setup/firewall.png)
 
 ## Step 3- Configure and connect to the internet
 
@@ -89,8 +91,9 @@ It is considered a good practice to run a quick software and windows update. It 
 1) Go to **Start**.
 2) Enter "Windows Update" in the search box.
 3) Click **Check for updates**.
-4) Download and install the programs that are prompted and wait till the process is completed.
-5) Restart the computer once done.
+4) Install the programs that are prompted and wait till the process is completed.
+![image](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images%20for%20computer%20setup/update.png)
+6) Restart the computer once done.
  
 ## Step 6- Start browsing the internet
 
@@ -98,6 +101,8 @@ Now, the hardware and software setup is done. You can proceed to use the interne
 
 1) Open the search engine (Google Chrome, Mozilla Firefox, etc.).
 2) Type in “northvolt.com” in the search bar and click **Enter**.
+
+![image](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images%20for%20computer%20setup/nortvolt.png)
 
 
 
