@@ -1,4 +1,12 @@
-The document covers the types of cables used to connect the computer components. You could have different connecting cables and ports based on the make and manufacturing year of the machine.
+# Computer cables and ports
+
+## Introduction
+
+The document covers the types of **cables and ports** used to connect the computer components. A **port** enables peripheral devices to communicate with the computer. You could have different connecting cables and ports based on the make and manufacturing year of the machine. 
+
+ 
+
+## Types of cables and ports
 
 **VGA Cable:** The Video Graphics Array cable is used in computers for generating video output on the monitor. Essentially, it is a bridge between the computer and the monitor. To generate the audio output, you can either use a VGA to HDMI converter cable or connect the speakers as peripherals. 
 
