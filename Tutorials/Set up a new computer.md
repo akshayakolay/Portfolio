@@ -22,6 +22,13 @@ This tutorial is intended to help you to setup your PC and get started with the 
 * A desktop monitor and a CPU.
 * Peripherals like mouse, keyboard and their connecting cables. [Refer here to locate the ports and connecting cables](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#types-of-cables-and-ports).
 
+## Safety Guidelines
+
+* Never connect the two extension cable together. As it may result in fire hazard.
+
+* Do not switch off the CPU button directly. Follow the shut down process.
+
+
 ## Step 1- Set up a computer
 
 1) Open the box/carton to find the desktop monitor, CPU and other components (mouse, keyboard).
