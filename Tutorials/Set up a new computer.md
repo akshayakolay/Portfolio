@@ -20,7 +20,7 @@ This tutorial is intended to help you to setup your PC and get started with the 
 ## Prerequsities
 
 * A desktop monitor and a CPU.
-* Peripherals like mouse, keyboard and their connecting cables. [Refer here to locate the ports and connecting cable](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#types-of-cables-and-ports).
+* Peripherals like mouse, keyboard and their connecting cables. [Refer here to locate the ports and connecting cables](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#types-of-cables-and-ports).
 
 ## Step 1- Set up a computer
 
