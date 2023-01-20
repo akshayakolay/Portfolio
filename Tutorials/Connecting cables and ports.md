@@ -8,7 +8,7 @@ The document covers the types of **cables and ports** used to connect the comput
 
 ## Types of cables and ports
 
-**VGA Cable:** The Video Graphics Array cable is used in computers for generating video output on the monitor. Essentially, it is a bridge between the computer and the monitor. To generate the audio output, you can either use a VGA to HDMI converter cable or connect the speakers as peripherals. 
+**- VGA Cable:** The Video Graphics Array cable is used in computers for generating video output on the monitor. Essentially, it is a bridge between the computer and the monitor. To generate the audio output, you can either use a VGA to HDMI converter cable or connect the speakers as peripherals. 
 
  * Connect one end to: Computer monitor
  
@@ -16,7 +16,7 @@ The document covers the types of **cables and ports** used to connect the comput
  
  image here: 
  
-**DVI Cable:** The Digital Visual Interface cable is used to provide video display on the monitor. To get audio support use DVI to HDMI converter cable or connect the speakers as peripherals. 
+**- DVI Cable:** The Digital Visual Interface cable is used to provide video display on the monitor. To get audio support use DVI to HDMI converter cable or connect the speakers as peripherals. 
  
  * Connect one end to: Computer monitor
  
@@ -24,7 +24,7 @@ The document covers the types of **cables and ports** used to connect the comput
  
  image here: 
  
-**HDMI Cable:** The High Definition Media Interface cable is used to generate both the audio and video output. You don't need any speakers as peripherals for this cable, as this cable is capable to provide audio transmission as well.
+**- HDMI Cable:** The High Definition Media Interface cable is used to generate both the audio and video output. You don't need any speakers as peripherals for this cable, as this cable is capable to provide audio transmission as well.
  
 * Connect one end to: Computer monitor
 
@@ -32,7 +32,7 @@ The document covers the types of **cables and ports** used to connect the comput
  
  image here:
  
- **PS/2 cable:** The cable is used to connect the wired keyboard and mouse. PS/2 ports on the computer have two colour codes:
+ **- PS/2 cable:** The cable is used to connect the wired keyboard and mouse. PS/2 ports on the computer have two colour codes:
  
                 Green PS/2 port: Mouse
                  
@@ -42,7 +42,7 @@ The document covers the types of **cables and ports** used to connect the comput
 
 * Connect another end to: PS/2 port on the computer
  
- **3.5mm Audio Cable:** The cable is used to connect speakers, microphone, CD and MP3 player. Audio ports on computer have color codes: 
+ **- 3.5mm Audio Cable:** The cable is used to connect speakers, microphone, CD and MP3 player. Audio ports on computer have color codes: 
  
              Green Audio port: Speakers
              
@@ -54,7 +54,7 @@ The document covers the types of **cables and ports** used to connect the comput
 
 * Connect another end to: Audio port on the computer 
  
-**USB cable:** The universal serial bus is used to connect any USB supported device/peripherals to the computer. 
+**- USB cable:** The universal serial bus is used to connect any USB supported device/peripherals to the computer. 
  
 * Connect one end to: 
 
@@ -68,13 +68,13 @@ The document covers the types of **cables and ports** used to connect the comput
 
 * Connect another end to: USB port(s) on the computer
 
-**Ethernet:** Ethernet cable is used to connect your computer to an internet network.
+**- Ethernet:** Ethernet cable is used to connect your computer to an internet network.
 
 * Connect one end to:  Ethernet port on the computer 
 
 * Connect another end to: Router
  
- **Power supply cable:** It is used to connect your computer to the power socket.
+ **- Power supply cable:** It is used to connect your computer to the main power supply.
  
  * Connect one end to:  AC power socket on the computer
  
