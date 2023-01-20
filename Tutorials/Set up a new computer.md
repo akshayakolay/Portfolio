@@ -112,5 +112,8 @@ Now, the hardware and software setup is done. You can proceed to use the interne
 ![image](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Images%20for%20computer%20setup/nortvolt.png)
 
 
+**Image References**
+
+[https://edu.gcfglobal.org/](https://edu.gcfglobal.org/)
 
 
