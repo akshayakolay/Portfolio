@@ -73,8 +73,7 @@ A firewall is a security system that analyses internet traffic (incoming and out
 ## Step 3- Configure and connect to the internet
 
 * Using the ethernet cable
-1) Locate and plug one end of the ethernet cable on the computer and another into the router. Refer here to locate the connecting cable
-
+1) Locate and plug one end of the ethernet cable on the computer and another into the router. [Refer here to locate the ports and connecting cables](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Connecting%20cables%20and%20ports.md#types-of-cables-and-ports)
 * Using Wifi
 
 1) Go to **Start**
