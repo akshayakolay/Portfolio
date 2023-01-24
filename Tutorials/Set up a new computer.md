@@ -84,11 +84,11 @@ A firewall is a security system that analyses internet traffic (incoming and out
 ## Step 4- Activate the antivirus
 
 Once you have connected to the internet. Before using the internet for any purpose. Safeguard your computer from any malware or virus. 
-The new system usually comes with pre-installed antivirus with a free trial subscription. The antivirus installation asks you for the activation code on starting for the first time. You usually recive it on your email or along with your purchase package. Provide the code and you are done.
+The new system usually comes with pre-installed antivirus with a free trial subscription. The antivirus installation asks you for the activation code on starting for the first time. You usually receive along with your purchase package. Provide the code and you are done.
 
 If you prefer other antivirus you can go ahead to install a new one of your choice.
 
-Note: windows 10 and 11 comes(windows security) inbuilt antivirus. That protects your system from you turn on the it. 
+Note: windows 10 and 11 comes (windows security) inbuilt antivirus. That protects your system from you turn on the it. 
 
 ## Step 5- Update the windows and other software
 
