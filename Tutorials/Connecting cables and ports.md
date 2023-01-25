@@ -26,7 +26,9 @@ The document covers the types of **cables and ports** used to connect the comput
  
  * Connect one end to: DVI connector on the monitor
 
-![image](https://user-images.githubusercontent.com/51504108/213725526-530d08f0-2e65-4e44-978a-a0bd43a50e90.png)
+![image](![image](https://user-images.githubusercontent.com/51504108/214511281-bdfb06dc-2343-4d40-b594-9ce06113c542.png))
+
+
 
  
  * Connect another end to: DVI port on the back of the computer
@@ -116,7 +118,7 @@ The document covers the types of **cables and ports** used to connect the comput
 
 ## Port identification at the back of computer
 
-![image](https://user-images.githubusercontent.com/51504108/213729923-3c1fed4a-a5de-413e-b9ad-96bb90687ddd.png)
+![image](https://user-images.githubusercontent.com/51504108/214511613-4ebdd6ca-26e9-4d32-a043-a7ae6f8f2572.png)
 
 **Image references**
 
