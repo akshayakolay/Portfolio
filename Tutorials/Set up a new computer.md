@@ -4,17 +4,17 @@
 
 This tutorial is intended to help you to setup your PC and get started with the internet. The document provides step-by-step instructions to:
 
-1) [Setup a computer](https://github.com/akshayakolay/Portfolio/edit/main/Tutorials/Set%20up%20a%20new%20computer.md#step-1--set-up-a-computer)
+1) [Setup a computer](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20a%20new%20computer.md#step-1--set-up-a-computer)
 
-2) [Enable firewall](https://github.com/akshayakolay/Portfolio/edit/main/Tutorials/Set%20up%20a%20new%20computer.md#step-2--enable-the-firewall)
+2) [Enable firewall](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20a%20new%20computer.md#step-2--enable-the-firewall)
 
-4) [Configure and connect to the internet](https://github.com/akshayakolay/Portfolio/edit/main/Tutorials/Set%20up%20a%20new%20computer.md#step-3--configure-and-connect-to-the-internet)
+4) [Configure and connect to the internet](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20a%20new%20computer.md#step-3--configure-and-connect-to-the-internet)
  
-5) [Activate the antivirus](https://github.com/akshayakolay/Portfolio/edit/main/Tutorials/Set%20up%20a%20new%20computer.md#step-4--activate-the-antivirus)
+5) [Activate the antivirus](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20a%20new%20computer.md#step-4--activate-the-antivirus)
 
-6) [Update the windows and other software](https://github.com/akshayakolay/Portfolio/edit/main/Tutorials/Set%20up%20a%20new%20computer.md#step-5--update-the-windows-and-other-software)
+6) [Update the windows and other software](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20a%20new%20computer.md#step-5--update-the-windows-and-other-software)
 
-7) [Start browsing the internet](https://github.com/akshayakolay/Portfolio/edit/main/Tutorials/Set%20up%20a%20new%20computer.md#step-6--start-browsing-the-internet)
+7) [Start browsing the internet](https://github.com/akshayakolay/Portfolio/blob/main/Tutorials/Set%20up%20a%20new%20computer.md#step-6--start-browsing-the-internet)
 
 
 ## Prerequsities
