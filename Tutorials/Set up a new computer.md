@@ -88,7 +88,7 @@ The new system usually comes with pre-installed antivirus with a free trial subs
 
 If you prefer other antivirus you can go ahead to install a new one of your choice.
 
-Note: windows 10 and 11 comes (windows security) inbuilt antivirus. That protects your system from you turn on the it. 
+Note: windows 10 and 11 comes (windows security) inbuilt antivirus. 
 
 ## Step 5- Update the windows and other software
 
