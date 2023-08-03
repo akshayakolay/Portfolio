@@ -86,7 +86,7 @@ The individual components of tiles and panels are movable. You can do following 
 |Slow Frames|Shows large workload on CPU/GPU above the rated capacity results in slow frames. Slow frames affect the video quality.|
 |Memory|Shows the CPU utilization by the Twitch application.|
 
-## List of avaialble panel components
+## List of available panel components
 |Panels|Description|
 |------|-----------|
 |Scenes|Scenes are a layout that appears on the screen during the broadcast, when you’re away, or during a chat session. It helps to give your stream a professional and neat look.|
