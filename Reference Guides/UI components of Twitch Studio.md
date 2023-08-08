@@ -74,7 +74,7 @@ The individual components of tiles and panels are movable. You can do following 
 ![panel shrink](https://github.com/akshayakolay/Portfolio/blob/main/Reference%20Guides/panel%20shrink.png)
 
 
-## List of Stat Tiles conmponents
+## List of Stat Tiles components
 |Stat Tiles|Description|
 |----------|-----------| 
 |Session|Shows the duration/length of the stream.|
